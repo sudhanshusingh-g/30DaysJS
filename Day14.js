@@ -15,3 +15,4 @@ function repeat(str,n=1){
 console.log(repeat('Ha!'));
 console.log(repeat('Ha!',2));
 console.log(repeat('Ha!',5));
+
